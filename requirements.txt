@@ -18,7 +18,6 @@ face_alignment==1.4.1
 python_speech_features
 numba
 resampy
-pyaudio
 soundfile
 einops
 configargparse
